@@ -19,7 +19,7 @@
 
 - On à créé 2 models
   - Course
-  -Lecon
+  - Lecon
 
 - On a créé les 2 tables correspondantes avec leurs attributs
 
