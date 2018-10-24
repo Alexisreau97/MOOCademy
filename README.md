@@ -1,24 +1,26 @@
-# README
+# L'App de MOOCademy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# INTRODUCTION
 
-Things you may want to cover:
+###### Étapes à suivre:
 
-* Ruby version
+* Faite un git clone: `https://github.com/Alexisreau97/MOOCademy`
+* Faite un `bundle install`
+* Et c'est partie pour la correction !
 
-* System dependencies
+# TEAM
 
-* Configuration
+| Nom    |Prenom    |
+| ------ |---------:|
+| REAU   | Alexis   |
+| PINTO  | Florian  |
 
-* Database creation
+# EXPLICATION
 
-* Database initialization
+- On à créé 2 models
+  -Course
+  -Lecon
 
-* How to run the test suite
+- On a créé les 2 tables correspondantes avec leurs attributs
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- On fait les lien entre les models
